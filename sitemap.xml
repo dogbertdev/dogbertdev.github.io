@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://dogbert.au/</loc>
+    </url>
+    <url>
+        <loc>https://dogbert.au/about/</loc>
+    </url>
+    <url>
+        <loc>https://dogbert.au/blog/</loc>
+    </url>
+    <url>
+        <loc>https://dogbert.au/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://dogbert.au/blog/testpost/</loc>
+        <lastmod>2022-11-24</lastmod>
+    </url>
+    <url>
+        <loc>https://dogbert.au/categories/</loc>
+    </url>
+    <url>
+        <loc>https://dogbert.au/projects/</loc>
+    </url>
+    <url>
+        <loc>https://dogbert.au/tags/</loc>
+    </url>
+    <url>
+        <loc>https://dogbert.au/tags/other/</loc>
+    </url>
+</urlset>
