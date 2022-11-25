@@ -13,6 +13,7 @@ jobs:
         env:
           # Target branch
           PAGES_BRANCH: gh-pages
+          BUILD_DIR: dogbert
           # Provide personal access token
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Or if publishing to the same repo, use the automatic token
