@@ -1,0 +1,3 @@
+[submodule "dogbert/themes/papaya"]
+	path = dogbert/themes/papaya
+	url = https://github.com/justint/papaya.git
